@@ -4,7 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## Link
 
-- **Live Site URL: [Recipe Page]()**
+- **Live Site URL: [Recipe Page](https://recipe-page-fr.netlify.app/)**
 
 ### Built with
 
